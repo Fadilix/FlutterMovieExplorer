@@ -20,5 +20,5 @@ Clone this repository to your local machine:
 
 # Dependencies
 This app uses the following dependencies:
-  ## http: For making HTTP requests to the OMDB API.
-  ## flutter_spinkit: For displaying loading spinners.
+  - http: For making HTTP requests to the OMDB API.
+  - flutter_spinkit: For displaying loading spinners.
