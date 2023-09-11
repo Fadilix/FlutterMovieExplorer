@@ -1,16 +1,28 @@
-# movie_app
+# Flutter Movie Search App
 
-A new Flutter project.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-09-11 à 13 57 48](https://github.com/Fadilix/FlutterMovieExplorer/assets/121851593/a310c762-c9fa-4217-9004-34818ed9ccd4)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-09-11 à 13 57 48](https://github.com/Fadilix/FlutterMovieExplorer/assets/121851593/ba102205-d508-49f2-b0a6-560c7dac08aa)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter app allows users to search for movies using the OMDB API. It provides a user-friendly interface for searching and viewing movie details.
+
+![App Screenshot](/screenshot.png)
+
+## Features
+
+- Search for movies by title.
+- View movie details including title, year, type, and poster.
+- User-friendly interface with real-time filtering.
+
+Clone this repository to your local machine:
+   git clone https://github.com/your-username/flutter-movie-search-app.git
+
+# Dependencies
+This app uses the following dependencies:
+  http: For making HTTP requests to the OMDB API.
+  flutter_spinkit: For displaying loading spinners.
+    
